@@ -1,3 +1,3 @@
-![aigoya labs logo](https://github.com/aigoya-labs/.github-private/assets/107979804/66aef2ee-d5c4-4879-933b-e285edc0b254)
+![image](https://github.com/user-attachments/assets/0b9c7e69-9a51-4051-9079-8b3b94c1d523)
 
 ## Welcome to AIGOYA Labs!
