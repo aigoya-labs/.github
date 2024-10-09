@@ -1,12 +1,3 @@
-## Hi there 👋
+![aigoya labs logo](https://github.com/aigoya-labs/.github-private/assets/107979804/66aef2ee-d5c4-4879-933b-e285edc0b254)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Welcome to AIGOYA Labs!
